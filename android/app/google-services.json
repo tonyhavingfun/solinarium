@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "68434926114",
+    "project_id": "solinariumcom",
+    "storage_bucket": "solinariumcom.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:68434926114:android:b53781b20eccd586f8487b",
+        "android_client_info": {
+          "package_name": "com.awakenedsoul.solinarium"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9SiJu16BqqKLBjZWFxe8NT2vYOGodCjU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
